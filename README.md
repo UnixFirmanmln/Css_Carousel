@@ -1,5 +1,6 @@
 # Css_Carousel
 This is a Responsive Css slides animation
+Manual Slide & Auto Slide
 
 
 
